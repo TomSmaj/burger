@@ -9,6 +9,6 @@ program utilizing express and handlebars in which users create and consume burge
 
 ![pic5](https://raw.github.com/TomSmaj/burger/master/pics/pic5.PNG)
 
-![pic6-2](https://raw.github.com/TomSmaj/burger/master/pics/pic6.jpg)
+![pic6-2](https://raw.github.com/TomSmaj/burger/master/pics/pic6-2.jpg)
 
 
