@@ -1,9 +1,6 @@
 # burger
 program utilizing express and handlebars in which users create and consume burgers
 
-# bamazon
-amazon-like store front utilizing MySQL and node.js
-
 ![pic2](https://raw.github.com/TomSmaj/burger/master/pics/pic2.PNG)
 
 ![pic3](https://raw.github.com/TomSmaj/burger/master/pics/pic3.PNG)
