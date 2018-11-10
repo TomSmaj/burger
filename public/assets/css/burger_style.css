@@ -1,0 +1,70 @@
+.flex-container{
+    min-height: 800px;
+    /*background-color: lightblue;*/
+    background-image: url("../img/burger-background.jpg");
+    background-repeat: repeat;
+}
+
+.burger-title{
+    background-color: rgba(255, 2555, 255, 0.88);
+    width: 180px;
+    height: 60%;
+    margin: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 30px;
+    padding: 2px;
+    top: 10px;
+}
+
+.card{
+    margin:5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body{
+    height: 1000px;
+}
+
+h1{
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.topRow{
+    height: 15%;    
+}
+
+.bottomRow{
+    height: 70%;
+    display: inline-block;
+}
+
+.col-12, .col-4{
+    height: 100%;
+}
+
+.add-burger{
+    border-radius: 30px;
+    width: 33%;
+    height: 100%;
+    background-color: rgba(255, 2555, 255, 0.88);
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    padding: 5px;
+    text-align: center;
+}
+
+.left, .right{
+    border-radius: 30px;
+    box-sizing: border-box;
+    min-height: 500px;
+    background-color: rgba(255, 2555, 255, 0.88);
+    margin: 5px;
+    margin-top: 15px;
+    padding: 10px;
+    text-align: center;
+}

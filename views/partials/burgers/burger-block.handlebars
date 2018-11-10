@@ -1,7 +1,9 @@
-<li>
-	{{burger_name}}
-
-	<button class="change-devour" data-id="{{id}}" >
-		{{#if devoured}}DEVOURED!{{else}}EAT{{/if}}
+<div class="card burger-block rounded-10" style="width: 18rem;">
+  <img class="card-img-top" src="assets/img/burger-pic.jpg" alt="Card image cap">
+  <div class="card-body">
+    <h5 class="card-title">{{burger_name}}</h5>
+    <button class="change-devour btn btn-primary" data-id="{{id}}" >
+		{{#if devoured}}DEVOURED{{else}}EAT{{/if}}
 	</button>
-</li>
+  </div>
+</div>
